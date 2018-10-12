@@ -10,3 +10,9 @@
     <td>Make a dice game that allows two players to input their names and roll 2 die simultaneously and if one player rolls two sixes then they win. As an exta you could save the winner's name to a file.</td>
     <td>02/10/2018</td>
   </tr>
+  <tr>
+    <td>Vending Machine</td>
+    <td>Make a vending machine that stores the user's balance and allows them to buy items for a set price. As well as this, you should store the items that the user currently owns in a list and be able to print them out on command</td>
+    <td>22/02/17</td>
+  </tr>
+  
