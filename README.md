@@ -18,11 +18,11 @@
   <tr>
     <td>Character Counter</td>
     <td>The user should enter a sentence the program should count all of the letters, numbers and vowels in the sentence and display them to a user. As an extra you could could how many upper or lower case letters are in the sentence.</td>
-    <td>08/05/17</td>
+    <td>08/05/2017</td>
   </tr>
   <tr>
     <td>Vending Machine</td>
     <td>Make a vending machine that stores the user's balance and allows them to buy items for a set price. As well as this, you should store the items that the user currently owns in a list and be able to print them out on command</td>
-    <td>22/02/17</td>
+    <td>22/02/2017</td>
   </tr>
   
