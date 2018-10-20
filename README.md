@@ -25,4 +25,9 @@
     <td>Make a vending machine that stores the user's balance and allows them to buy items for a set price. As well as this, you should store the items that the user currently owns in a list and be able to print them out on command</td>
     <td>22/02/2017</td>
   </tr>
+  <tr>
+    <td>Palindrome Checker</td>
+    <td>A user should enter a word and the program should test to see if the word is a palindrome. A palindrome is a word like "racecar" that is the same if you spell is backwards</td>
+    <td>29/01/2017</td>
+  </tr>
   
