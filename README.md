@@ -15,4 +15,9 @@
     <td>Make a vending machine that stores the user's balance and allows them to buy items for a set price. As well as this, you should store the items that the user currently owns in a list and be able to print them out on command</td>
     <td>22/02/17</td>
   </tr>
+  <tr>
+    <td>Email Validator</td>
+    <td>Allow the user to enter an email address and have it validated. The email must have an @ sign and a domain and ending which is in a specified list.</td>
+    <td>08/05/17</td>
+  </tr>
   
