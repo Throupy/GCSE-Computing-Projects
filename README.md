@@ -30,4 +30,9 @@
     <td>A user should enter a word and the program should test to see if the word is a palindrome. A palindrome is a word like "racecar" that is the same if you spell is backwards. (The code is small as it's a simple program)</td>
     <td>29/01/2017</td>
   </tr>
+  <tr>
+    <td>Phone Number Checker</td>
+    <td>A user should enter a phone number and the program should check if it is valid in the uk. The criteria it should fit are: first and second numbers are 0, it must have a length of 11 and it must ONLY be numbers.</td>
+    <td>20/11/2016</td>
+  </tr>
   
