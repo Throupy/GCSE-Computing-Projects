@@ -11,8 +11,13 @@
     <td>02/10/2018</td>
   </tr>
   <tr>
-    <td>Email Validator</td>
-    <td>Allow the user to enter an email address and have it validated. The email must have an @ sign and a domain and ending which is in a specified list.</td>
+    <td>Dice Game</td>
+    <td>Make a dice game that allows two players to input their names and roll 2 die simultaneously and if one player rolls two sixes then they win. As an exta you could save the winner's name to a file.</td>
+    <td>02/02/2018</td>
+  </tr>
+  <tr>
+    <td>Character Counter</td>
+    <td>The user should enter a sentence the program should count all of the letters, numbers and vowels in the sentence and display them to a user. As an extra you could could how many upper or lower case letters are in the sentence.</td>
     <td>08/05/17</td>
   </tr>
   <tr>
