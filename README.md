@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>Palindrome Checker</td>
-    <td>A user should enter a word and the program should test to see if the word is a palindrome. A palindrome is a word like "racecar" that is the same if you spell is backwards</td>
+    <td>A user should enter a word and the program should test to see if the word is a palindrome. A palindrome is a word like "racecar" that is the same if you spell is backwards. (The code is small, it's a simple program :P)</td>
     <td>29/01/2017</td>
   </tr>
   
