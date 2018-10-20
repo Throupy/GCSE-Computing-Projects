@@ -11,13 +11,13 @@
     <td>02/10/2018</td>
   </tr>
   <tr>
-    <td>Char</td>
-    <td>Make a dice game that allows two players to input their names and roll 2 die simultaneously and if one player rolls two sixes then they win. As an exta you could save the winner's name to a file.</td>
+    <td>Character Counter</td>
+    <td>The user should enter a sentence the program should count all of the letters, numbers and vowels in the sentence and display them to a user. As an extra you could could how many upper or lower case letters are in the sentence.</td>
     <td>02/02/2018</td>
   </tr>
   <tr>
-    <td>Character Counter</td>
-    <td>The user should enter a sentence the program should count all of the letters, numbers and vowels in the sentence and display them to a user. As an extra you could could how many upper or lower case letters are in the sentence.</td>
+    <td>Email Checker</td>
+    <td>The user should enter an email for validation and the program should: make sure the email contains an @ sign and a domain and ending that you have specified in a list.</td>
     <td>08/05/2017</td>
   </tr>
   <tr>
